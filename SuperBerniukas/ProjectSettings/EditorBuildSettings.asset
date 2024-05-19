@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2ed488efce1b1b34897822237450bf02
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection.unity
+    guid: ee10bc82355cc69479cce6f545dbb6f2
+  - enabled: 1
+    path: Assets/Scenes/Bedroom.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Hallway.unity
+    guid: 86db226e86aed74499ebfd9b0c3104f7
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: e9c3750cbe57b7b41873f31e8ecdee26
+  - enabled: 1
+    path: Assets/Scenes/Bathroom.unity
+    guid: ad5ef4bc699a0fe448724b506e6502ef
+  - enabled: 1
+    path: Assets/Scenes/Hallway2.unity
+    guid: 795198113af5f1146ade271e39a31f61
+  - enabled: 1
+    path: Assets/Scenes/Gym.unity
+    guid: 241ac79f875759747bddffdaeb277f08
+  - enabled: 1
+    path: Assets/Scenes/Living Room.unity
+    guid: 47775c3e8683aaa42b0c4dcd4fd145c1
+  - enabled: 1
+    path: Assets/Scenes/Wardrobe.unity
+    guid: 558d9879364db884a96bb66e49219461
+  - enabled: 1
+    path: Assets/Scenes/LoseScreen.unity
+    guid: 2b295a18f7f4e29409085c99f5f75a7b
+  - enabled: 1
+    path: Assets/Scenes/PingPong.unity
+    guid: f5f1b7ac266071c42a0f119fa1e43bc1
+  - enabled: 1
+    path: Assets/Scenes/WInScreen.unity
+    guid: d4d65c5da57babd42bf50c99cc7ee70a
+  - enabled: 1
+    path: Assets/Scenes/PreGame.unity
+    guid: df8104d175f0ef041b6619aa42c25883
+  - enabled: 1
+    path: Assets/Scenes/CardGame.unity
+    guid: 062ef1c9475b48e4293c40d61ec9787c
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: abd66893098442a43883541c4a171768, type: 2}

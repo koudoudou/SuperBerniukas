@@ -1,0 +1,423 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1716136300426537, "dur":24306, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716136300450850, "dur":228, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716136300451147, "dur":493, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716136300451664, "dur":5909, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716136300457574, "dur":11299564, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716136311757141, "dur":408, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716136311757550, "dur":58, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716136311757748, "dur":54, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716136311757881, "dur":3339, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1716136300451672, "dur":5909, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716136300457583, "dur":7162, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716136300466235, "dur":781, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1716136300467022, "dur":89, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1716136300467124, "dur":6841, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1716136300473967, "dur":99, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1716136300474305, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player4cbbf786-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1716136300467020, "dur":7503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1716136300475252, "dur":183999, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1716136300665374, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1716136300665373, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1716136300665509, "dur":1509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1716136300667022, "dur":11090119, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716136300451712, "dur":5884, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716136300457599, "dur":1049, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716136300458649, "dur":6126, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716136300464801, "dur":235, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":2, "ts":1716136300464779, "dur":258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1716136300465038, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716136300550942, "dur":2757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1716136300553785, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716136300553902, "dur":8765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716136300562755, "dur":12303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets14.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1716136300575175, "dur":116212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1716136300691432, "dur":11065701, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300451704, "dur":5885, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300457592, "dur":924, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300458517, "dur":6256, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300464774, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1716136300464981, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300492023, "dur":2060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1716136300494163, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300494367, "dur":5571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300500014, "dur":152, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300500194, "dur":2212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300502482, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300502576, "dur":2302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300504943, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300505031, "dur":4134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300509323, "dur":1894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300511288, "dur":3081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300514479, "dur":3828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300518445, "dur":2758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300521289, "dur":2876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.XR.Management.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300524255, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300524333, "dur":3057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300527451, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300527537, "dur":4164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300531767, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300531899, "dur":3398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300535373, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300535549, "dur":4285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300539913, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300540017, "dur":5299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300545420, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300545564, "dur":5529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300551167, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300551262, "dur":7350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716136300558719, "dur":4953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets6.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1716136300563783, "dur":13120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets11.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1716136300586111, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716136300577073, "dur":9137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/level7" }}
+,{ "pid":12345, "tid":3, "ts":1716136300586401, "dur":10927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/level1" }}
+,{ "pid":12345, "tid":3, "ts":1716136300597414, "dur":11159775, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716136300451739, "dur":5862, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716136300457604, "dur":1085, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716136300458690, "dur":6089, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716136300464785, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1716136300464999, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716136300513490, "dur":4255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1716136300517882, "dur":3611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716136300521586, "dur":3214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716136300524870, "dur":203, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716136300525095, "dur":3937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716136300529099, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716136300529187, "dur":4306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716136300533576, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716136300533701, "dur":4009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716136300537783, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716136300537929, "dur":4748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716136300542751, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716136300542842, "dur":4805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716136300547717, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716136300547841, "dur":6287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716136300554207, "dur":298, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716136300554565, "dur":8333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716136300562981, "dur":7025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets14.assets" }}
+,{ "pid":12345, "tid":4, "ts":1716136300570165, "dur":24594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":4, "ts":1716136300594839, "dur":11162365, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716136300451786, "dur":5821, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716136300457611, "dur":1014, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716136300458625, "dur":6155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716136300464803, "dur":213, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1716136300464781, "dur":237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1716136300465018, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716136300531971, "dur":2054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1716136300534088, "dur":253, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716136300534361, "dur":3902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716136300538320, "dur":206, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716136300538581, "dur":4958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716136300543603, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716136300543700, "dur":6044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716136300549874, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716136300549980, "dur":5716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716136300555788, "dur":4441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets8.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1716136300560318, "dur":18763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1716136300579227, "dur":6951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/level5" }}
+,{ "pid":12345, "tid":5, "ts":1716136300586297, "dur":8016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/level10" }}
+,{ "pid":12345, "tid":5, "ts":1716136300594384, "dur":11162826, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716136300451813, "dur":5801, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716136300457616, "dur":998, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716136300458615, "dur":6156, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716136300464774, "dur":407, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1716136300551709, "dur":2830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1716136300554654, "dur":190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1716136300554652, "dur":194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1716136300554908, "dur":4560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1716136300559621, "dur":5902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1716136300565620, "dur":9470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":6, "ts":1716136300575197, "dur":9152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1716136300584509, "dur":5461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/level13" }}
+,{ "pid":12345, "tid":6, "ts":1716136300590038, "dur":11167187, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716136300451846, "dur":5773, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716136300457622, "dur":1062, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716136300458684, "dur":6101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716136300464786, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1716136300464989, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716136300531296, "dur":2173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1716136300533539, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716136300533626, "dur":4303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716136300538013, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716136300538092, "dur":5111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716136300543270, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716136300543357, "dur":5349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716136300548788, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716136300548921, "dur":6991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716136300556024, "dur":3497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":7, "ts":1716136300563530, "dur":107, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716136300559624, "dur":4053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":7, "ts":1716136300563789, "dur":8874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets11.assets" }}
+,{ "pid":12345, "tid":7, "ts":1716136300572912, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716136300580278, "dur":294, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716136300573034, "dur":7562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1716136300587096, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716136300580704, "dur":6476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/level3" }}
+,{ "pid":12345, "tid":7, "ts":1716136300587279, "dur":9675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1716136300597049, "dur":11160148, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716136300451881, "dur":5744, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716136300457630, "dur":1062, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716136300458692, "dur":6096, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716136300464788, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1716136300465027, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716136300542307, "dur":1995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1716136300544375, "dur":168, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716136300544570, "dur":5106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716136300549745, "dur":213, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716136300549981, "dur":6319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716136300556407, "dur":6246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets7.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1716136300562745, "dur":7614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":8, "ts":1716136300588241, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716136300570459, "dur":17899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1716136300588643, "dur":9404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1716136300598128, "dur":11159041, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716136300451917, "dur":5717, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716136300457638, "dur":1075, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716136300458713, "dur":6045, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716136300464781, "dur":200, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1716136300464761, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1716136300464983, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716136300484518, "dur":4141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1716136300488734, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716136300489022, "dur":4319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300493520, "dur":5867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300499495, "dur":2376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300501967, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716136300502090, "dur":2082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300504241, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716136300504375, "dur":4687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300509182, "dur":2026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300511287, "dur":3100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300514514, "dur":2855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300517477, "dur":2879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300520440, "dur":3073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300523583, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716136300523667, "dur":2766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300526509, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716136300526625, "dur":3973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300530677, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716136300530771, "dur":4156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300535019, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716136300535147, "dur":4276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300539474, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716136300539646, "dur":5201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300544986, "dur":5258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300550329, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1716136300550444, "dur":6198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1716136300556749, "dur":4832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":9, "ts":1716136300561697, "dur":5329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":9, "ts":1716136300567206, "dur":34924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1716136300602200, "dur":11154975, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716136300451947, "dur":5695, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716136300457646, "dur":990, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716136300458636, "dur":6134, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716136300464785, "dur":339, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1716136300464770, "dur":355, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1716136300501037, "dur":2344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1716136300503504, "dur":3463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716136300507060, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716136300507152, "dur":2499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716136300509744, "dur":2546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716136300512407, "dur":3687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716136300516194, "dur":3176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716136300519508, "dur":2501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716136300522077, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716136300522190, "dur":3085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716136300525423, "dur":3597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716136300529065, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716136300529133, "dur":4097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716136300533315, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716136300533422, "dur":4183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716136300537684, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716136300537787, "dur":5123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716136300542978, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716136300543060, "dur":5706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716136300548832, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1716136300548989, "dur":5781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1716136300554888, "dur":61941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets9.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1716136300616896, "dur":11140252, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716136300451972, "dur":5677, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716136300457653, "dur":1061, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716136300458714, "dur":6040, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1716136300465070, "dur":156, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300465227, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.XR.Management.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300465311, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300465387, "dur":275, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300465663, "dur":81, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300465745, "dur":494, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300466240, "dur":119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300466360, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300466455, "dur":357, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300466813, "dur":96, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300466910, "dur":102, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300467013, "dur":155, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300467169, "dur":253, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300467423, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300467506, "dur":366, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300467874, "dur":154, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300468029, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300468104, "dur":599, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300468705, "dur":348, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300469054, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":11, "ts":1716136300464758, "dur":4572, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":11, "ts":1716136300472500, "dur":11278990, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":11, "ts":1716136311755961, "dur":1114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716136300452011, "dur":5645, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716136300457660, "dur":68, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716136300457729, "dur":7036, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716136300464787, "dur":342, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":12, "ts":1716136300464766, "dur":364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1716136300522680, "dur":2243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1716136300524979, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716136300525090, "dur":3497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716136300528649, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716136300528736, "dur":3779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716136300532596, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716136300532750, "dur":4206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716136300537038, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716136300537276, "dur":3976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716136300541318, "dur":336, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716136300541676, "dur":4840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716136300546580, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716136300546656, "dur":5643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716136300552362, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1716136300552429, "dur":9452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1716136300561999, "dur":11739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1716136300574660, "dur":2983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":12, "ts":1716136300577850, "dur":6489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/level6" }}
+,{ "pid":12345, "tid":12, "ts":1716136300584549, "dur":7645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/level12" }}
+,{ "pid":12345, "tid":12, "ts":1716136300592265, "dur":11164864, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1716136300452042, "dur":5621, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1716136300457663, "dur":7104, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1716136300464770, "dur":439, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1716136300552393, "dur":2734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1716136300555230, "dur":3770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":13, "ts":1716136300559111, "dur":4053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":13, "ts":1716136300563271, "dur":9106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets12.assets" }}
+,{ "pid":12345, "tid":13, "ts":1716136300572589, "dur":204, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1716136300580523, "dur":103, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1716136300572844, "dur":7794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":13, "ts":1716136300580756, "dur":6416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/level2" }}
+,{ "pid":12345, "tid":13, "ts":1716136300587351, "dur":14556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1716136300601993, "dur":11155163, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1716136300452070, "dur":5599, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1716136300457670, "dur":7081, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1716136300464787, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1716136300465925, "dur":2500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/app.info" }}
+,{ "pid":12345, "tid":14, "ts":1716136300468434, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":14, "ts":1716136300468431, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1716136300469481, "dur":1485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1716136300471016, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1716136300471451, "dur":1711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1716136300473230, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1716136300473467, "dur":2190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1716136300475767, "dur":197, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":14, "ts":1716136300475763, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":14, "ts":1716136300475966, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1716136300476387, "dur":2198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":14, "ts":1716136300478627, "dur":447, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":14, "ts":1716136300478626, "dur":449, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/SuperBerniukas.exe" }}
+,{ "pid":12345, "tid":14, "ts":1716136300479092, "dur":2804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas.exe" }}
+,{ "pid":12345, "tid":14, "ts":1716136300481964, "dur":711, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":14, "ts":1716136300481961, "dur":716, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":14, "ts":1716136300482750, "dur":36901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":14, "ts":1716136300519745, "dur":3673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":14, "ts":1716136300523515, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1716136300523642, "dur":3143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1716136300526855, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1716136300526933, "dur":4206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1716136300531221, "dur":232, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1716136300531471, "dur":3648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1716136300535183, "dur":329, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1716136300535538, "dur":4806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1716136300540406, "dur":246, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1716136300540677, "dur":4920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1716136300545663, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1716136300545822, "dur":5697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1716136300551618, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1716136300551730, "dur":8534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1716136300560376, "dur":4821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":14, "ts":1716136300565329, "dur":10076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets10.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1716136300575479, "dur":8876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/level9" }}
+,{ "pid":12345, "tid":14, "ts":1716136300584510, "dur":4674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/level14" }}
+,{ "pid":12345, "tid":14, "ts":1716136300589287, "dur":8177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":14, "ts":1716136300597536, "dur":11159626, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1716136300452106, "dur":5572, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1716136300457679, "dur":7081, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1716136300464761, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":15, "ts":1716136300471698, "dur":1474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":15, "ts":1716136300473229, "dur":178, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1716136300473226, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1716136300473467, "dur":1952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1716136300475459, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1716136300475851, "dur":1378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1716136300477288, "dur":173, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300477285, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300477617, "dur":15924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300493644, "dur":5953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300499746, "dur":3439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300503319, "dur":2594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300506009, "dur":429, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1716136300506506, "dur":2746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300509380, "dur":3966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300513471, "dur":2950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300516516, "dur":3093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300519720, "dur":3187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300522986, "dur":190, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1716136300523204, "dur":2658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300525937, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1716136300526111, "dur":3903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300530089, "dur":227, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1716136300530334, "dur":3641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300534113, "dur":227, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1716136300534445, "dur":3713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300538215, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1716136300538350, "dur":4505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300542937, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1716136300543014, "dur":4806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300547897, "dur":296, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1716136300548225, "dur":5870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300554172, "dur":342, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1716136300554570, "dur":8452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1716136300563119, "dur":6730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets13.assets" }}
+,{ "pid":12345, "tid":15, "ts":1716136300570014, "dur":5375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":15, "ts":1716136300575590, "dur":9198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/level8" }}
+,{ "pid":12345, "tid":15, "ts":1716136300584875, "dur":6373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/level11" }}
+,{ "pid":12345, "tid":15, "ts":1716136300591324, "dur":11165802, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1716136300452161, "dur":5524, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1716136300457686, "dur":7076, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1716136300464763, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":16, "ts":1716136300477527, "dur":3110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":16, "ts":1716136300480701, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":16, "ts":1716136300481262, "dur":7331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":16, "ts":1716136300489089, "dur":10357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300499563, "dur":2433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300502142, "dur":2476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300504748, "dur":2409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300507240, "dur":361, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1716136300507630, "dur":2148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300509860, "dur":3055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300513024, "dur":3080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300516239, "dur":3334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300519690, "dur":4263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300524063, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1716136300524177, "dur":2895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300527133, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1716136300527235, "dur":4197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300531508, "dur":305, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1716136300531840, "dur":4911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300536819, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1716136300536983, "dur":3909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300540953, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1716136300541058, "dur":4983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300546098, "dur":190, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1716136300546303, "dur":5347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300551720, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1716136300551825, "dur":9486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1716136300561521, "dur":9598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1716136300571205, "dur":8972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":16, "ts":1716136300580277, "dur":279, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1716136300580568, "dur":11708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/maartiz/Desktop/SB/SuperBerniukas_Data/level4" }}
+,{ "pid":12345, "tid":16, "ts":1716136300592375, "dur":11164842, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716136311765393, "dur":1738, "ph":"X", "name": "ProfilerWriteOutput" }
+,

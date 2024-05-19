@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|c:\\users\\maartiz\\desktop\\superberniukas (2)\\superberniukas\\superberniukas\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|c:\\users\\maartiz\\desktop\\superberniukas (2)\\superberniukas\\superberniukas\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|c:\\users\\maartiz\\desktop\\superberniukas (2)\\superberniukas\\superberniukas\\assets\\scripts\\buttonpresssfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonpresssfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|c:\\users\\maartiz\\desktop\\superberniukas (2)\\superberniukas\\superberniukas\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\assets\\scripts\\statmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\assets\\scripts\\statchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\assets\\scripts\\selectcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\assets\\scripts\\changeclothes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changeclothes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\assets\\scripts\\startcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\assets\\scripts\\loadcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\assets\\scripts\\loadcharacterprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A85293A-2785-AC25-3B65-CDD0C0528F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadcharacterprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\maartiz\\desktop\\superberniukas (2)\\superberniukas\\superberniukas\\assets\\scripts\\activateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\activateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\DeactivateProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DeactivateProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Timer.cs",
+              "ToolTip": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\Timer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Timer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:11:37.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAYwH0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:09:13.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonPressSFX.cs",
+              "DocumentMoniker": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\ButtonPressSFX.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonPressSFX.cs",
+              "ToolTip": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\ButtonPressSFX.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonPressSFX.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwEcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:07:58.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:06:56.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T23:15:30.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:05:57.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Startcl.cs",
+              "DocumentMoniker": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\Startcl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Startcl.cs",
+              "ToolTip": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\Startcl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Startcl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:59:50.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChangeClothes.cs",
+              "DocumentMoniker": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\ChangeClothes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeClothes.cs",
+              "ToolTip": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\ChangeClothes.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChangeClothes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:06:52.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoadCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\LoadCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadCharacter.cs",
+              "ToolTip": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\LoadCharacter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadCharacter.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:04:51.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatManager.cs",
+              "DocumentMoniker": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\StatManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StatManager.cs",
+              "ToolTip": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\StatManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StatManager.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAIwFEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:50:32.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatChange.cs",
+              "DocumentMoniker": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\StatChange.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StatChange.cs",
+              "ToolTip": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\StatChange.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StatChange.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:50:26.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelectCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\SelectCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectCharacter.cs",
+              "ToolTip": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\SelectCharacter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectCharacter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:46:48.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoadCharacterProfile.cs",
+              "DocumentMoniker": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\LoadCharacterProfile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadCharacterProfile.cs",
+              "ToolTip": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\LoadCharacterProfile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadCharacterProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:44:15.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeactivateProfile.cs",
+              "DocumentMoniker": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\DeactivateProfile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeactivateProfile.cs",
+              "ToolTip": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\DeactivateProfile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeactivateProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:43:36.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ActivateProfile.cs",
+              "DocumentMoniker": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\ActivateProfile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ActivateProfile.cs",
+              "ToolTip": "C:\\Users\\maartiz\\Desktop\\SuperBerniukas (2)\\SuperBerniukas\\SuperBerniukas\\Assets\\Scripts\\ActivateProfile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ActivateProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:43:27.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+repository "SuperBerniukas@koudoudou@cloud"
+  path "/"
+    br "/main"
+    co "/main"
